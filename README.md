@@ -1,4 +1,4 @@
-# Welcome to Beliver Screener Mobile app 👋
+# Welcome to BeliveScreener Mobile app 👋
 
 ## Get started
 
